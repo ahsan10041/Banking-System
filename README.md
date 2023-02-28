@@ -1,10 +1,10 @@
-#Banking System
+# Banking System
 
-##Project Description:
+## Project Description:
 
  The banking system project is a comprehensive banking system model application that will enable users to perform various banking transactions such as opening new accounts, making deposits, withdrawals, transfers, and generating account statements. The application will also provide users with access to various banking services and features such as loans, credit cards, and online banking, tax calculation etc.
 
-##Features:
+## Features:
 
 * User Authentication: This module will allow users to create an account and log in to the application securely.
 
@@ -17,13 +17,12 @@
 * Zakat Managtement: This Module will allow muslim users to calculate their zakat amount on their savings. 
 
 
-##Languages Used:
-'''
+## Languages Used:
+
 		Java
-'''		
-##Technologies:
-'''
+## Technologies:
+
 	 Git Shell
 	 OpenJDK 19.0.2
-'''
+
 
