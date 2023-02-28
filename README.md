@@ -18,11 +18,12 @@
 
 
 ##Languages Used:
+'''
 		Java
-		
+'''		
 ##Technologies:
-
+'''
 	 Git Shell
 	 OpenJDK 19.0.2
-
+'''
 
