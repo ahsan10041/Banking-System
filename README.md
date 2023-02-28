@@ -1,24 +1,26 @@
-Project Title: Banking System
+#Banking System
 
-Project Description: The banking system project is a comprehensive banking system model application that will enable users to perform various banking transactions such as opening new accounts, making deposits, withdrawals, transfers, and generating account statements. The application will also provide users with access to various banking services and features such as loans, credit cards, and online banking, tax calculation etc.
+##Project Description:
 
-Features:
+ The banking system project is a comprehensive banking system model application that will enable users to perform various banking transactions such as opening new accounts, making deposits, withdrawals, transfers, and generating account statements. The application will also provide users with access to various banking services and features such as loans, credit cards, and online banking, tax calculation etc.
 
-User Authentication: This module will allow users to create an account and log in to the application securely.
+##Features:
 
-Account Management: This module will allow users to open new accounts, view account balances, and manage account details such as account numbers, names, and addresses.
+* User Authentication: This module will allow users to create an account and log in to the application securely.
 
-Transactions: This module will allow users to perform various transactions such as deposits, withdrawals, and transfers between accounts.
+* Account Management: This module will allow users to open new accounts, view account balances, and manage account details such as account numbers, names, and addresses.
 
-Tax Management: This module will allow users to calculate an approximate amount of tax that they will have to pay on their amount.
+* Transactions: This module will allow users to perform various transactions such as deposits, withdrawals, and transfers between accounts.
 
-Zakat Managtement: This Module will allow muslim users to calculate their zakat amount on their savings. 
+* Tax Management: This module will allow users to calculate an approximate amount of tax that they will have to pay on their amount.
+
+* Zakat Managtement: This Module will allow muslim users to calculate their zakat amount on their savings. 
 
 
-Languages Used:
+##Languages Used:
 		Java
 		
-Technologies:
+##Technologies:
 
 	 Git Shell
 	 OpenJDK 19.0.2
